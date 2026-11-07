@@ -21,5 +21,6 @@
 ```css
 .selector {
     font-family: “Awesome”, Arial, sans-serif;
-    color: red; }
+    color: red;
+    }
 ```
